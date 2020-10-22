@@ -26,4 +26,4 @@ const gitClone = "clone";
 const gitPull = "pull";
 
 // git remote
-const gitRemote = "manage remote git (GitHub)";
+const gitRemote = "manage remote git";
