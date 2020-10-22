@@ -1,29 +1,29 @@
 // git add
-const gitAdd = "";
+const gitAdd = "add";
 
 // git commit
-const gitCommit = "";
+const gitCommit = "commit";
 
 // git status
-const gitStatus = "";
+const gitStatus = "status";
 
 // git push
-const gitPush = "";
+const gitPush = "push";
 
 // git merge
-const gitMerge = "";
+const gitMerge = "merge";
 
 // git checkout
-const gitCheckout = "";
+const gitCheckout = "chekout";
 
 // git branch
-const gitBranch = "";
+const gitBranch = "branch";
 
 // git clone
-const gitClone = "";
+const gitClone = "clone";
 
 // git pull
-const gitPull = "";
+const gitPull = "pull";
 
 // git remote
-const gitRemote = "";
+const gitRemote = "manage remote git (GitHub)";
